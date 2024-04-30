@@ -32,7 +32,7 @@ Choose an appropriate optimiser and loss function for model training
 Train the model for ~20 epochs
 Write your findings after the model fit, see if the earlier issue is resolved or not?
 
-**Class distribution: **
+**Class distribution:**
 
 Examine the current class distribution in the training dataset
 Which class has the least number of samples?
