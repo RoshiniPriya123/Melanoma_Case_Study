@@ -33,6 +33,7 @@ Train the model for ~20 epochs
 Write your findings after the model fit, see if the earlier issue is resolved or not?
 
 **Class distribution: **
+
 Examine the current class distribution in the training dataset
 Which class has the least number of samples?
 Which classes dominate the data in terms of the proportionate number of samples? Handling class imbalances:
